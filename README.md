@@ -1,5 +1,4 @@
-# MLOPS_LAB06 — Titanic Survival Prediction with Random Forest
-
+# MLOPS_LAB06 
 A comprehensive MLOps lab replicating industry-standard ML workflows using the **Titanic dataset** and **Random Forest** models. Each folder covers a different model development technique.
 
 ---
